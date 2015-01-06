@@ -140,6 +140,3 @@ function nr_cpaneldash_options_page(  ) {
 	<?php
 
 }
-
-?>
-
